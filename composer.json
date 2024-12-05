@@ -1,0 +1,9 @@
+{
+    "name": "ooing/ws-go-exec",
+    "autoload": {
+        "psr-4": {
+            "ooing\\WsGoExec\\": "src/"
+        }
+    },
+    "require": {}
+}
